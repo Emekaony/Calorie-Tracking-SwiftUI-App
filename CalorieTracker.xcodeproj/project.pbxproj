@@ -13,6 +13,7 @@
 		4EF72AFE2ACA90C1006B9327 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EF72AFD2ACA90C1006B9327 /* Preview Assets.xcassets */; };
 		4EF72B062ACA9124006B9327 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4EF72B042ACA9124006B9327 /* LICENSE */; };
 		4EF72B072ACA9125006B9327 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4EF72B052ACA9124006B9327 /* README.md */; };
+		4EF72B092ACA9227006B9327 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4EF72B082ACA9227006B9327 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		4EF72AFD2ACA90C1006B9327 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4EF72B042ACA9124006B9327 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		4EF72B052ACA9124006B9327 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		4EF72B082ACA9227006B9327 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				4EF72AF62ACA90BF006B9327 /* CalorieTrackerApp.swift */,
 				4EF72AF82ACA90BF006B9327 /* ContentView.swift */,
 				4EF72B042ACA9124006B9327 /* LICENSE */,
+				4EF72B082ACA9227006B9327 /* .gitignore */,
 				4EF72B052ACA9124006B9327 /* README.md */,
 				4EF72AFA2ACA90C1006B9327 /* Assets.xcassets */,
 				4EF72AFC2ACA90C1006B9327 /* Preview Content */,
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EF72B092ACA9227006B9327 /* .gitignore in Resources */,
 				4EF72B062ACA9124006B9327 /* LICENSE in Resources */,
 				4EF72AFE2ACA90C1006B9327 /* Preview Assets.xcassets in Resources */,
 				4EF72B072ACA9125006B9327 /* README.md in Resources */,
